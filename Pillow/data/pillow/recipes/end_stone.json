@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SYS",
+        "SSS"
+    ],
+    "key": {
+	    "S": {
+            "item": "minecraft:stone"
+        },
+        "Y": {
+            "item": "minecraft:yellow_terracotta"
+        }
+    },
+    "result": {
+        "item": "minecraft:end_stone",
+        "count": 8
+    }
+}

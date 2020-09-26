@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "OSO",
+        "///"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "O": {
+            "item": "minecraft:lapis_block"
+        },
+        "S": {
+            "item": "minecraft:glass_bottle"
+		}
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 6
+    }
+}

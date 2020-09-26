@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NGE",
+        "RSC",
+        "NGE"
+    ],
+    "key": {
+	    "C": {
+            "item": "minecraft:comparator"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        },
+		"G": {
+            "item": "minecraft:gold_block"
+        },
+        "S": {
+            "item": "minecraft:structure_block"
+		},
+		"E": {
+            "item": "minecraft:redstone"
+		}
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1
+    }
+}

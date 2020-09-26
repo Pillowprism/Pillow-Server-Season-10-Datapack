@@ -1,0 +1,1 @@
+execute as Pillowprism_ at Pillowprism_ run execute as @a[distance=..30] at @s run setblock ~ ~ ~ fire keep

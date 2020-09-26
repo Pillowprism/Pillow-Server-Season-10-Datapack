@@ -1,0 +1,1 @@
+execute as Pillowprism_ at Pillowprism_ run kill @r[distance=3..150]
